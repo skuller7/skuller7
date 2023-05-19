@@ -1,6 +1,6 @@
 👋 Hi, I'm @ skuller7
-- 👀 I am currently referred to Bash Networking and penetration testing
-- 🌱 I am currently learning Bash, Linux, Python, Networking and Penetration testing
+- 👀 I am currently referred to Bash Networking AWS
+- 🌱 I am currently learning Bash, Linux, Postgres and Networking
 - 📫 How to reach me ... you can contact me via discord skuller # 7920 
 
 <!---
