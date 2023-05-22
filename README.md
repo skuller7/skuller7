@@ -1,5 +1,5 @@
 👋 Hi, I'm @ skuller7
-- 👀 I am currently referred to as "Nobody"
+- 👀 I am currently referred to as /
 - 🌱 I am currently learning Bash, Linux, Postgres and Networking
 - 📫 How to reach me ... you can contact me via discord skuller # 7920 or linkedin Uros Zigic
 
