@@ -2,7 +2,7 @@
 
 👀 Currently referred to as '/'
 
-🌱 Learning Bash, Linux, Postgres, Networking, AWS, and Containers
+🌱 Interested in : RHEL and their tools & products, Networking Cisco specific, Virtualization and Containerization, AWS, Basic Security & Pentesting
 
 📫 Reach me on Discord: skuller #7920
 
